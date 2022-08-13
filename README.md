@@ -2,7 +2,7 @@
 
 I'm Stefano! Have a look at my work and if you fancy anything and what to get in touch, drop me a line. 😉
 
-At the moment, the current publicly available repos don't represent my body of work, so I'll be updating it shortly.
+At the moment, the current publicly available repos don't represent my body of work, so I'll be updating it gradually.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=zcehtro&include_all_commits=true&count_private=true&show_icons=true&line_height=25&custom_title=Zcehtro's GitHub Stats" alt="my Github Stats"/>
 
